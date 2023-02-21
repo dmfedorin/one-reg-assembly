@@ -1,2 +1,2 @@
-# obtuse-lang
-joke programming language with rather... unconventional syntax
+# one-reg-assembly
+joke programming language
